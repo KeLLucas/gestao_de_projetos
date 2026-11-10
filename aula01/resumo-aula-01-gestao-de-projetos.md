@@ -8,13 +8,13 @@
 A aula apresenta o plano de ensino e os principais elementos que
 orientarão a disciplina:
 
--   Objetivos de aprendizagem;
--   Ementa;
--   Conteúdo programático;
--   Metodologia de ensino;
--   Recursos didáticos;
--   Avaliação;
--   Bibliografia.
+- Objetivos de aprendizagem;
+- Ementa;
+- Conteúdo programático;
+- Metodologia de ensino;
+- Recursos didáticos;
+- Avaliação;
+- Bibliografia.
 
 ## 2. Metodologia de ensino
 
@@ -24,10 +24,10 @@ desenvolvem soluções práticas ou resultados concretos.
 
 Essa abordagem busca estimular:
 
--   Criatividade;
--   Resolução de problemas difíceis ou pouco estruturados;
--   Trabalho em equipe;
--   Desenvolvimento de soluções práticas.
+- Criatividade;
+- Resolução de problemas difíceis ou pouco estruturados;
+- Trabalho em equipe;
+- Desenvolvimento de soluções práticas.
 
 ## 3. Contexto e importância da Gestão de Projetos
 
@@ -37,11 +37,11 @@ melhorias.
 
 Entre seus benefícios estão:
 
--   Redução de desperdícios;
--   Melhoria da qualidade;
--   Aumento da produtividade;
--   Apoio à competitividade empresarial;
--   Aplicação em diferentes áreas de atuação.
+- Redução de desperdícios;
+- Melhoria da qualidade;
+- Aumento da produtividade;
+- Apoio à competitividade empresarial;
+- Aplicação em diferentes áreas de atuação.
 
 A aula também relaciona a necessidade de organização e arquitetura de
 software ao desenvolvimento de aplicações modernas, destacando a
@@ -55,9 +55,9 @@ serviço único**.
 
 Os termos principais dessa definição são:
 
--   **Temporário:** possui início e fim;
--   **Progressivo:** evolui gradativamente por meio de etapas;
--   **Único:** busca produzir um resultado específico.
+- **Temporário:** possui início e fim;
+- **Progressivo:** evolui gradativamente por meio de etapas;
+- **Único:** busca produzir um resultado específico.
 
 A Gestão de Projetos envolve organizar e conduzir esse esforço para
 atingir os resultados pretendidos.
@@ -66,17 +66,17 @@ atingir os resultados pretendidos.
 
 A aula destaca competências importantes para quem gerencia projetos:
 
--   Liderança;
--   Influência;
--   Construção de equipes;
--   Tomada de decisões;
--   Gestão de conflitos;
--   Motivação;
--   Consciência cultural;
--   Coaching;
--   Comunicação;
--   Negociação;
--   Capacidade de conquistar confiança.
+- Liderança;
+- Influência;
+- Construção de equipes;
+- Tomada de decisões;
+- Gestão de conflitos;
+- Motivação;
+- Consciência cultural;
+- Coaching;
+- Comunicação;
+- Negociação;
+- Capacidade de conquistar confiança.
 
 Essas habilidades contribuem para coordenar pessoas, lidar com
 dificuldades e manter o projeto avançando.
@@ -89,8 +89,8 @@ em gerenciamento de projetos.
 
 Na apresentação da disciplina, o PMBOK é descrito com:
 
--   47 processos;
--   10 áreas do conhecimento.
+- 47 processos;
+- 10 áreas do conhecimento.
 
 O ciclo de vida representa a organização do projeto em etapas ao longo
 de sua realização.
@@ -113,29 +113,29 @@ divulgação, organizadas em programas e projetos.
 
 Projetos apresentados:
 
-1.  Reforma de salas de aula e banheiros;
-2.  Revitalização dos laboratórios;
-3.  Modernização da Biblioteca Central;
-4.  Criação de biblioteca virtual;
-5.  Criação de salas patrocinadas por empresas;
-6.  Melhoria da comunicação visual no campus.
+1. Reforma de salas de aula e banheiros;
+2. Revitalização dos laboratórios;
+3. Modernização da Biblioteca Central;
+4. Criação de biblioteca virtual;
+5. Criação de salas patrocinadas por empresas;
+6. Melhoria da comunicação visual no campus.
 
 ### Programa 2 - Modernização pedagógica
 
 Projetos apresentados:
 
-1.  Criação de cursos a distância;
-2.  Adoção de novos materiais pedagógicos;
-3.  Formação continuada de professores;
-4.  Estímulo à criação científica junto ao corpo docente;
-5.  Criação de revistas eletrônicas.
+1. Criação de cursos a distância;
+2. Adoção de novos materiais pedagógicos;
+3. Formação continuada de professores;
+4. Estímulo à criação científica junto ao corpo docente;
+5. Criação de revistas eletrônicas.
 
 ### Diferença entre projeto, programa e portfólio
 
--   **Projeto:** esforço temporário e progressivo para criar um produto
+- **Projeto:** esforço temporário e progressivo para criar um produto
     ou serviço único.
--   **Programa:** grupo de projetos gerenciados de maneira coordenada.
--   **Portfólio:** coleção de projetos e programas agrupados para
+- **Programa:** grupo de projetos gerenciados de maneira coordenada.
+- **Portfólio:** coleção de projetos e programas agrupados para
     facilitar o gerenciamento efetivo.
 
 Essa organização permite relacionar os projetos aos objetivos
@@ -167,33 +167,33 @@ elaborada no formato de um mini TCC.
 
 A documentação deve abordar:
 
--   Concepção inicial;
--   Planejamento;
--   Execução;
--   Resultados obtidos;
--   Desafios enfrentados;
--   Soluções adotadas;
--   Análise crítica do projeto;
--   Entrega final.
+- Concepção inicial;
+- Planejamento;
+- Execução;
+- Resultados obtidos;
+- Desafios enfrentados;
+- Soluções adotadas;
+- Análise crítica do projeto;
+- Entrega final.
 
 ### Apresentação do projeto
 
 A apresentação considera a entrega do projeto e o processo de gestão
 adotado, incluindo:
 
--   Organização do backlog;
--   Páginas desenvolvidas;
--   Análise de benchmarking;
--   Desenvolvimento e implementação de funcionalidades;
--   Comparação com outras soluções disponíveis no mercado.
+- Organização do backlog;
+- Páginas desenvolvidas;
+- Análise de benchmarking;
+- Desenvolvimento e implementação de funcionalidades;
+- Comparação com outras soluções disponíveis no mercado.
 
 ## 10. Atividade proposta na aula
 
 A atividade inicial estabelece duas orientações:
 
-1.  Formar grupos de **3 a 5 integrantes**. A mesma composição deverá
+1. Formar grupos de **3 a 5 integrantes**. A mesma composição deverá
     ser mantida nas atividades semanais.
-2.  Criar um repositório no **GitHub** para centralizar as atividades da
+2. Criar um repositório no **GitHub** para centralizar as atividades da
     disciplina durante o semestre.
 
 No repositório, deverá ser criado um arquivo Markdown (`.md`) contendo o
